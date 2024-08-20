@@ -6,4 +6,8 @@ This project is for beginners and will teach you how to analyze the music playli
 =>Postgre SQL
 
 =>PgAdmin4
+
+
+
+
 ![image](https://github.com/user-attachments/assets/7f7cfaba-b1ed-4ecd-a777-883611718ed5)
